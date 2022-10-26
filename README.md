@@ -1,5 +1,6 @@
 ## Olá, me chamo Felipe, sou estudante de desenvolvimento e apaixonado por tecnologia!
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/94204429/143463195-d67b5b34-c76a-439f-9616-04f8d9850779.png" /> <hr/>
   <a href="https://github.com/Fcamargoo">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fcamargoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcamargoo&layout=compact)](https://github.com/Fcamargoo/github-readme-stats)&theme=dark"/>
